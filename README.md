@@ -1,4 +1,5 @@
 # Cutscene-liste
 
-| Cutscene Label | Cutscene kode  | Billede |
+| Cutscene Label | Cutscene kode | Billede |
+
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
