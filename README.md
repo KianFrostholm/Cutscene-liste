@@ -1,4 +1,4 @@
-<center><h1>All included cars with pictures and spawn codes</h1></center>
+<center><h1>Min cutcsene liste</h1></center>
 
 | Label | Navn  | Billede |
 | :-: | :-: | :-: |
