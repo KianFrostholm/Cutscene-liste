@@ -1,7 +1,7 @@
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
 | Label | Navn  | Billede |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: |
 | **Acura TL Type-S** | tltypes | ![Picture](./img/tltypes.webp) | Jomanire and Lazlow555 | [5MODS Link](https://www.gta5-mods.com/vehicles/acura-tl-type-s-jomanire-and-lazlow555) | ✔️ |
 | **Aston Martin DBX Carbon Edition** | amdbx | ![Picture](./img/amdbx.webp) | kuchka78 | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition) | ✔️ |
 | **2013 Aston Martin Vanquish** | ast | ![Picture](./img/ast.webp) | YCA-ANSWER | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-vanquish-2013) | ✔️ |
